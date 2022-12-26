@@ -20,7 +20,7 @@ http://172.93.110.132:14244/
 #EXTINF:-1 tvg-logo="" group-title="",RECORD NEW
 http://172.93.110.132:14245/
 #EXTINF:-1 tvg-logo="" group-title="",RECORD NEW
-http://172.93.110.132:14247/
+http://boxtv.uniredes.com.br:80/eduardos/eduardos/55
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
 http://187.85.237.3:8220/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
@@ -590,6 +590,8 @@ http://195.154.174.135:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137495?token=HRpcWENeF
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w985115768.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CON
 https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BIBLICOS
+http://boxtv.uniredes.com.br:80/eduardos/eduardos/66
 #EXTINF:-1 tvg-logo="" group-title="",DESENHO BIBLICOS
 http://boxtv.uniredes.com.br:80/eduardos/eduardos/129
 #EXTINF:-1 tvg-logo="" group-title="",NARUTO http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f6df5a173d7340007c559f7/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
@@ -619,3 +621,7 @@ http://lmtv.me:80//live/1667663319jen/162145/89815.ts
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f4fb4cf605ddf000748e16f/997452/playlist.m3u8?terminate=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&deviceDNT=0&deviceModel=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=true&appName=web&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&appVersion=unknown&deviceType=web&deviceMake=Chrome
 #EXTINF:-1 tvg-logo="" group-title="",ANIME
 http://195.181.163.140:80/series/FhFBsN9J9V/factoryiptv/76621.mp4?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQFVAgZUTUAWElRFaFpTEg4aUVcAAA8DWhYfEkwNCFFBDFICAlNTW1tUAAQbEUdZUBpZRgMLDwdbFh8SXRwRURFYAlhrAQQUCgJUFQ0RFRwWVw07Vl1aVQxQEQoaVEcYQV8QRBZfDxcPDR0VVVpDQlVMBkYIGgUCUAIRHBoHCkENQhFNFl9DIDFDHRVSS0NVWksKC1waDRYPRAcSFEYMRzxEBkdAFwQDDgRDFQ0RBxIYGg4FSmdUWwxaVlNMDQpaEBRZFgZHTUAODl9eQ1xFb0RRB0YIVkJYDkk=
+#EXTINF:-1 tvg-logo="" group-title="",MEU TEMPO
+http://boxtv.uniredes.com.br:80/eduardos/eduardos/62
+#EXTINF:-1 tvg-logo="" group-title="",FILMES CLASSICOS 
+http://boxtv.uniredes.com.br:80/eduardos/eduardos/63
